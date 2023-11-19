@@ -1,0 +1,6 @@
+calc
+
+ `width: calc(100% - 80px);`
+
+
+
